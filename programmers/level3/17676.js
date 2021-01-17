@@ -1,5 +1,3 @@
-/* https://programmers.co.kr/learn/courses/30/lessons/17676?language=javascript */
-
 function durationStrToInt(strDurationTime) {
     const splitStrDurationTime = strDurationTime.split(".");
     
